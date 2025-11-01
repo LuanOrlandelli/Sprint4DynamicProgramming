@@ -85,7 +85,7 @@ Minimizar o custo total de operação ao longo de `T` dias, considerando:
 - `shortage = max(0, d_t - (s + q))`
 
 #### 💰 Função Objetivo
-custo_total = (K se q>0) + cq + hs' + p*shortage
+- `custo_total = (K se q>0) + cq + hs' + p*shortage`
 O algoritmo busca a **política ótima de pedidos** `q_t` que minimize o custo acumulado ao longo dos dias.
 
 ---
