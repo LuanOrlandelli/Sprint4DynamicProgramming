@@ -1,7 +1,6 @@
 # ================================================================
 # Gestão de Consumo em Unidades de Diagnóstico
 # Disciplina: Dynamic Programming
-# Código completo: funcionalidades originais + Programação Dinâmica
 # ================================================================
 
 from collections import deque
